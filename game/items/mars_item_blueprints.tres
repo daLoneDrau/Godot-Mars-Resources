@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://scripts/src/Test_App/BasicGames/GoldenFlutesGreatEscapes/Mars/CustomResources/MarsItemResource.cs" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Title = "MARS_ITEM_BLUEPRINTS"
+DisplayName = "BLUEPRINTS"
+Description = "A set of blueprints for an ancient Martian palace"
+MarsItemEnum = 0

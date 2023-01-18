@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://scripts/src/Base/Resources/Bus/RolledAttribute.cs" type="Script" id=1]
+[ext_resource path="res://resources/variables/BasicGames/GoldenFlutesGreatEscapes/Mars/equipment_elements/equipment_element_mars_aim.tres" type="Resource" id=2]
+
+[resource]
+script = ExtResource(1)
+Title = "AIM"
+DisplayName = "AIM"
+Abbreviation = "AIM"
+Description = "The character's aim."
+EquipmentElement = ExtResource( 2 )
+Id = 0
