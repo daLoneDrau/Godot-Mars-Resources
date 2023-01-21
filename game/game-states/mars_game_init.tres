@@ -3,7 +3,7 @@
 [ext_resource path="res://scripts/src/BasicGames/GoldenFlutesGreatEscapes/Mars/CustomResources/MarsGameStateResource.cs" type="Script" id=1]
 
 [resource]
-script = ExtResource(1)
+script = ExtResource( 1 )
 Title = "MARS_GAME_INIT"
 DisplayName = "INIT"
 MarsGameStateEnum = 1

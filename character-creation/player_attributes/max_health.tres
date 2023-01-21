@@ -4,7 +4,7 @@
 [ext_resource path="res://resources/BasicGames/GoldenFlutesGreatEscapes/Mars/variables/equipment_elements/equipment_element_mars_max_health.tres" type="Resource" id=2]
 
 [resource]
-script = ExtResource(1)
+script = ExtResource( 1 )
 Title = "MAX_HEALTH"
 DisplayName = "MAX_HEALTH"
 Abbreviation = "MAX_HEALTH"
